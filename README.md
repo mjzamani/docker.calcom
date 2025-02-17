@@ -52,7 +52,7 @@ If you are evaluating Cal.com or running with minimal to no modifications, this 
 1. Clone calcom/docker
 
     ```bash
-    git clone https://github.com/calcom/docker.git
+    git clone https://github.com/mjzamani/docker.git
     ```
 
 2. Change into the directory
@@ -130,7 +130,7 @@ If you are evaluating Cal.com or running with minimal to no modifications, this 
 1. Clone calcom/docker
 
     ```bash
-    git clone https://github.com/calcom/docker.git calcom-docker
+    git clone https://github.com/mjzamani/docker.git calcom-docker
     ```
 
 2. Change into the directory
