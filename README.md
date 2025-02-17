@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <a href="https://github.com/calcom/cal.com">
+  <a href="https://github.com/mjzamani/cal.com">
     <img src="https://user-images.githubusercontent.com/8019099/133430653-24422d2a-3c8d-4052-9ad6-0580597151ee.png" alt="Logo">
 
   </a>
@@ -17,7 +17,7 @@
     ·
     <a href="https://cal.com">Website</a>
     ·
-    <a href="https://github.com/calcom/cal.com/issues">Core Cal.com related Issues</a>
+    <a href="https://github.com/mjzamani/cal.com/issues">Core Cal.com related Issues</a>
     ·
     <a href="https://github.com/calcom/docker/issues">Docker specific Issues</a>
     ·
@@ -27,7 +27,7 @@
 
 # Docker
 
-This image can be found on DockerHub at [https://hub.docker.com/r/calcom/cal.com](https://hub.docker.com/r/calcom/cal.com)
+This image can be found on DockerHub at [https://hub.docker.com/r/mjzamani/cal.com](https://hub.docker.com/r/mjzamani/cal.com)
 
 The Docker configuration for Cal.com is an effort powered by people within the community. Cal.com, Inc. does not yet provide official support for Docker, but we will accept fixes and documentation at this time. Use at your own risk.
 
@@ -212,7 +212,7 @@ These variables must also be provided at runtime
 
 If building the image yourself, these variables must be provided at the time of the docker build, and can be provided by updating the .env file. Currently, if you require changes to these variables, you must follow the instructions to build and publish your own image. 
 
-Updating these variables is not required for evaluation, but is required for running in production. Instructions for generating variables can be found in the [cal.com instructions](https://github.com/calcom/cal.com) 
+Updating these variables is not required for evaluation, but is required for running in production. Instructions for generating variables can be found in the [cal.com instructions](https://github.com/mjzamani/cal.com) 
 
 | Variable | Description | Required | Default |
 | --- | --- | --- | --- |
