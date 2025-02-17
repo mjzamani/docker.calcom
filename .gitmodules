@@ -1,4 +1,4 @@
 [submodule "calcom"]
 	path = calcom
-	url = https://github.com/mjzamani/docker.calcom
+	url = https://github.com/mjzamani/cal.com/
 	branch = main
